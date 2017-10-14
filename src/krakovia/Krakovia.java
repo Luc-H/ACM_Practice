@@ -20,6 +20,7 @@ public class Krakovia
 				items[i] = input.nextBigInteger();
 			}
 
+			int a = Integer.parseInt("12");
 
 			for (int i = 1; i < items.length; i++)
 			{
